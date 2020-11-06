@@ -17,3 +17,12 @@
 - Como plotar um gráfico com o Pandas;
 - Como formatar a sua visualização;
 - Como alterar os ticks do seu gráfico utilizando o Matplotlib.
+
+## Aula 02: Primeiras visualizações de dados
+
+### _O que aprendemos nessa aula_:
+
+- Como realizar um slice no DataFrame com Pandas;
+- Formas de lidar com dados faltantes;
+- Utilizar o insert do Pandas;
+- Como transpor sua matriz de dados.
